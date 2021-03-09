@@ -10,7 +10,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0
 - Multiple audio and subtitles support
 - Support for playback controls like Pause/Resume, Restart (play from beginning), Skip back 10 seconds, Skip forwards 10 seconds
 - Basic RefApp available to validate the VOD/Live playback
-- Bitcode support for iOS/tvOSsdsa
+- Bitcode support for iOS/tvOS
 
 Known Issues: 
 - DAI Support for HLS (Not available yet)
