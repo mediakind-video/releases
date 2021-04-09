@@ -10,7 +10,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.
   - Added Leanback support
   - Designed new UI to support FireTV
   - Handled remote key events
-- Bitmovin version updated to 2.64.0 to fix missing metadata events
+- Bitmovin version updated to 2.64.0 to fix missing metadata events for DAI
 
 
 
