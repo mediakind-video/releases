@@ -11,7 +11,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.
   - Designed new UI to support FireTV
   - Handled remote key events
 - BitMovin fix for missing metadata events for DAI support on Android       
-- Added support for Backendconfiguration. Moved serverUrl and ownerUid under MKPBackendCoonfiguration and moved this config into MKPSourceConfigurarion
+- Added support for Backendconfiguration. Moved serverUrl and ownerUid under MKPBackendCoonfiguration and moved this config into MKPSourceConfiguration
 
 
 
