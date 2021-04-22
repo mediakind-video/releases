@@ -9,8 +9,6 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0
 - Bitmovin Analytics integrated on tvOS
 
 
-# MKPlayerSDK iOS/tvOS Releases
-
 ## 0.9.5 (2021.03.27)
 
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0.9.5/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-0.9.5.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-0.9.5.zip)
@@ -26,8 +24,6 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0
 Known Issues: 
 - Bitmovin analytics not integrated in tvOS
 
-
-# MKPlayerSDK iOS/tvOS Releases
 
 ## 0.9.3 (2021.03.09)
 
