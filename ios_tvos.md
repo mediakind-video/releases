@@ -1,6 +1,22 @@
 
 # MKPlayerSDK iOS/tvOS Releases
 
+
+## 0.9.8 (2021.05.07)
+
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0.9.8/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-0.9.8.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-0.9.8.zip)
+
+**Change log:**
+- Added playback restriction (PBR) support
+   - Support added for playback blocking PBRs for Jailbroken devices and extended display over HDMI dongle.
+   - Support added for checking playback restrictions for Live services on tune and across program boundary.
+   - Support for stream count based restrictions.
+- [MKPErrorEvent](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0.9.8/Classes/MKPErrorEvent.html) properties `errorCode` and `errorMessage` now renamed to `code` and `message` respectively.
+- Xcode 12.5 support.
+
+**Note:** You will need to update your Xcode version to 12.5 to use this release. v0.9.8 is no longer compatible with earlier versions of Xcode.
+
+
 ## 0.9.7 (2021.04.23)
 
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0.9.7/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-0.9.7.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-0.9.7.zip)
