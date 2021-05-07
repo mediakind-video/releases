@@ -2,6 +2,17 @@
 
 Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
 
+## 0.9.8 - 2021.05.07
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.9.8/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-0.9.8.zip)
+
+**Change log:**
+- Added playback restriction (PBR) support
+   - Support added for playback blocking PBR for extended display via HDMI dongle (enforced at the app level - Ex: RefApp)
+   - Support for stream count based restrictions.
+   - Not supported PBR - Program boundary scenario for Live, Rooted device restrictions, Out-of-Home blocked
+- Support for Short-Code-Authentication to refresh the STS token in the RefApp.
+
+
 ## 0.9.7 - 2021.04.23
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.9.7/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-0.9.7.zip)
 
@@ -13,7 +24,6 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.
 - Ability to pass CDN token in master manifest URL
 - Added support for CDN selection based on cdnFailoverPercent
 - HLS + WV playback support on Android devices 
-
 
 
 ## 0.9.4 - 2021.04.09
