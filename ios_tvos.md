@@ -1,6 +1,19 @@
 
 # MKPlayerSDK iOS/tvOS Releases
 
+## 0.9.9 (2021.05.21)
+
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0.9.9/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-0.9.9.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-0.9.9.zip)
+
+**Change log:**
+- Improvements to PBR Support for Live across program boundary transition
+- Improvements to RefApp UI for tvOS
+   - Implemented the draggable progress bar for the seek functionality
+   - Focus issue with restart button - Fixed
+   - Selecting subtitle and audio track was not working properly due to focus issue - Fixed
+   - Swipe up is not hiding the subtitle and audio track view - Fixed
+   - 10 sec seek button takes time to hide - Fixed
+
 
 ## 0.9.8 (2021.05.07)
 
