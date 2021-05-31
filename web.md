@@ -2,10 +2,9 @@
 # Mediakind WMC SDK Releases
 
 ## Quick Release Links: 
-  1. [Github Repository](https://github.com/mediakind-video/wmc)
-  2. [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc)
-  3. [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html)
-  4. [RefApp Link](https://wmc.mr.tv3cloud.com/nba/refapp/index.html)
+  1. [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc)
+  2. [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html)
+  3. [RefApp Link](https://wmc.mr.tv3cloud.com/nba/refapp/index.html)
 
 ## Release - 1.40.10
 - Bug Fixes:
