@@ -9,21 +9,19 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.
 - Program Query for Live channels
 - Playback Restriction (PBR) support for Live across program boundary transition
 - Provided Video Scaling mode APIs from SDK 
-- Pass accountId for MKPBackendConfiguration to support guest user epic changes...??
-- STS token update during playback ??
+- Adding accoundId to MKPBackendConfiguration
+- Added API updateAuthToken() to provide means to update the auth token during playback
 
 **Changed:**
 - Bitmovin player version upgraded to 2.66.0
+- Renamed MKPSourceConfiguration param applicationName to applicationToken
 
 **Deprecated:**
-- Previous MKPBackendConfiguration constructor is deprecated. Refer 1.0.0 doc for updated constructor.
-- Previous MKPSourceConfiguration constructor is deprecated. Refer 1.0.0 doc for updated constructor.
+- Previous MKPBackendConfiguration constructor is deprecated. Refer to 1.0.0 doc for updated constructor.
+- Previous MKPSourceConfiguration constructor is deprecated. Refer to 1.0.0 doc for updated constructor.
 
 **Fixed:**
-- Handled NPE from load method if mandatory params of MKPBackendConfiguration is missing
-
-**Known Issues:**
-
+- Handled NPE from load method if mandatory params of MKPBackendConfiguration are missing
 
 
 ## 0.9.8 - 2021.05.07
