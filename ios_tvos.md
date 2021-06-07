@@ -1,6 +1,29 @@
 
 # MKPlayerSDK iOS/tvOS Releases
 
+
+## 1.0.0 (2021.06.07)
+
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1.0.0/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-1.0.0.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-1.0.0.zip)
+
+**Change log:**
+
+**Added:**
+- Provided Video Scaling mode APIs from SDK
+- Pass accountId for MKPBackendConfiguration to support ...??
+- STS token update during playback ??
+
+**Changed:**
+- Bitmovin player version upgraded to 2.64.0
+
+**Removed:**
+
+**Fixed:**
+
+**Known Issues:**
+
+
+
 ## 0.9.9 (2021.05.21)
 
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0.9.9/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-0.9.9.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-0.9.9.zip)
