@@ -2,6 +2,31 @@
 
 Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
 
+## 1.0.0 - 2021.06.07
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.0/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.0.zip)
+
+**Change log:**
+
+**Added:**
+- Program Query for Live channels
+- Playback Restriction (PBR) support for Live across program boundary transition
+- Provided Video Scaling mode APIs from SDK
+- Pass accountId for MKPBackendConfiguration to support ...??
+- STS token update during playback ??
+
+**Changed:**
+- Bitmovin player version upgraded to 2.66
+- Playback mode string to boolean. To meet parity ??
+
+**Removed:**
+
+**Fixed:**
+- Handled NPE from load method if Backend config is missing
+
+**Known Issues:**
+
+
+
 ## 0.9.8 - 2021.05.07
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.9.8/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-0.9.8.zip)
 
