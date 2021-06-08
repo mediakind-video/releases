@@ -11,6 +11,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.
 - Provided Video Scaling mode APIs from SDK 
 - Added accoundId to MKPBackendConfiguration
 - Added API updateAuthToken() to provide means to update the auth token during playback
+- Support for playback using JWT based auth token
 
 **Changed:**
 - Bitmovin player version upgraded to 2.66.0
