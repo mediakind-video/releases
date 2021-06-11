@@ -3,6 +3,10 @@
 
 ## Quick Release Links: [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc) | [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html) | [RefApp Link](https://wmc.mr.tv3cloud.com/nba/RefApp/index.html)
 
+## 1.42.12 - 2021.06.11
+- **Change log:**
+    -  Added npm repository url in the document
+    -  Added react-js sample application in the example section.
 ## 1.42.11 - 2021.06.08
 - **Change log:**
     -  Added support for HLS+WV and HLS+PR Encrypted Playback on Chrome and Edge browsers
@@ -13,8 +17,6 @@
        - Added an example tutorial for encrypted playback of MK assets
        - Added player key and domain white list related information
        - Updated with MKP service related communication API
-
-
 ## 1.40.10
 - Bug Fixes:
     -  Bug 1237812: On performing restart operation, VOD asset throws '4-44-225' error
