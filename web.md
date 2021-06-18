@@ -3,10 +3,18 @@
 
 ## Quick Release Links: [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc) | [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html) | [RefApp Link](https://wmc.mr.tv3cloud.com/nba/RefApp/index.html)
 
+## 1.42.13 - 2021.06.18
+- **Change log:**
+    -  Exposed APIs in SDK to set the player forward and backward buffer duration value. Option provided in Reference App, to set the player buffer values
+    -  Added support to display the live latency, buffer duration metrics in the Reference Application
+    -  Added support to overwrite default param with the CDN Token properties in the manifest url when the CDN token keyname matches with default param name
+
+
 ## 1.42.12 - 2021.06.11
 - **Change log:**
     -  Added npm repository url in the document
     -  Added react-js sample application in the example section.
+
 ## 1.42.11 - 2021.06.08
 - **Change log:**
     -  Added support for HLS+WV and HLS+PR Encrypted Playback on Chrome and Edge browsers
