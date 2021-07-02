@@ -3,6 +3,14 @@
 
 ## Quick Release Links: [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc) | [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html) | [RefApp Link](https://wmc.mr.tv3cloud.com/nba/RefApp/index.html)
 
+## 1.44.14 - 2021.07.02
+- **Change log:**
+    -  Improve the playback metrics to show the seek start, seek end and seek duration
+    -  Expose an API letting user know where the seekable range is
+        -  User should be allowed to Seek with in the seekable range.
+        -  User should get the message “Seek/skip not allowed beyond seekable range!”, when user try to seek beyond the seekable range.
+    -  WMC SDK to expose Forward/Backward buffer duration API
+  
 ## 1.42.13 - 2021.06.18
 - **Change log:**
     -  Exposed APIs in SDK to set the player forward and backward buffer duration. Option provided in Reference App, to configure the player buffer values
