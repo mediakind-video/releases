@@ -3,6 +3,9 @@
 
 ## Quick Release Links: [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc) | [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html) | [RefApp Link](https://wmc.mr.tv3cloud.com/nba/RefApp/index.html)
 
+## 1.44.16 - 2021.07.016
+- **Change log:**
+- 
 ## 1.44.14 - 2021.07.02
 - **Change log:**
     -  Added getSeekableRange API to allow the user to query the current seekable range that is valid in the live window
