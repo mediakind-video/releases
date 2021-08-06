@@ -1,5 +1,10 @@
 # MKPlayerSDK Roku Releases
 
+## 0.9.4 (2021.08.07)
+Links: [Library Download](https://mkplayer.blob.core.windows.net/$web/roku/0.9.4/0.9.4.zip) | [Reference Doc](https://mkplayer.blob.core.windows.net/$web/roku/0.9.4/roku.html) | [Roku Reference App](https://mkplayer.blob.core.windows.net/$web/roku/0.9.4/0.9.4.zip)
+
+- Fixes for the Beacon http payload.
+
 ## 0.9.3 (2021.06.22)
 Links: [Library Download](https://mkplayer.z13.web.core.windows.net/roku/0.9.3/0.9.3.zip) | [Reference Doc](https://mkplayer.z13.web.core.windows.net/roku/0.9.3/roku.html) | [Roku Reference App](https://mkplayer.z13.web.core.windows.net/roku/0.9.3/0.9.3.zip)
 
