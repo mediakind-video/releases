@@ -3,7 +3,13 @@
 ## 0.9.4 (2021.08.07)
 Links: [Library Download](https://mkplayer.blob.core.windows.net/$web/roku/0.9.4/0.9.4.zip) | [Reference Doc](https://mkplayer.blob.core.windows.net/$web/roku/0.9.4/roku.html) | [Roku Reference App](https://mkplayer.blob.core.windows.net/$web/roku/0.9.4/0.9.4.zip)
 
-- Fixes for the Beacon http payload.
+- Fixes for the Beacon http payload
+- Added support for seeking in live manifest
+  - getSeekableRange API returns valid seekable range in the live window
+- Override the fields in personal Info with the matching CDN Tokens 
+- Added support for Closed captions
+- Added sessionId to Personal Info
+- Added SessionId in the Personal Info. that is passed to PRISMA. This is to uniquely identify a login with the same account on multiple devices
 
 ## 0.9.3 (2021.06.22)
 Links: [Library Download](https://mkplayer.z13.web.core.windows.net/roku/0.9.3/0.9.3.zip) | [Reference Doc](https://mkplayer.z13.web.core.windows.net/roku/0.9.3/roku.html) | [Roku Reference App](https://mkplayer.z13.web.core.windows.net/roku/0.9.3/0.9.3.zip)
