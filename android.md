@@ -2,6 +2,11 @@
 
 Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/repos/tree/General/mkplayer%2Fcom%2Fmediakind%2Fmkplayer)
 
+## 1.0.6 - 2021.08.19
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.6/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.6.zip)
+**Added:**
+- Fixed Live Event Playback issue - ADO 23324
+
 ## 1.0.5 - 2021.08.17
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.5/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.5.zip)
 **Added:**
