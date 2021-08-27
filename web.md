@@ -7,7 +7,7 @@
 - **Change log:**
 - Support for playback of Live and VOD assets with Ads
     - Handled generically for all Ad tracking data. Validated with NBA Prod C assets
-- Support for tuning to a live event/channel at given start offset (in the live window)
+- Support for tuning to a live event/channel at a given start offset (in the live window)
 - Sample application for Samsung Tizen, LG Web OS (Initial version)
     - Playback of clear/encrypted content with basic controls like Play/Stop/Pause/Restart
     - Have pre-configured source list to validate various types of content
